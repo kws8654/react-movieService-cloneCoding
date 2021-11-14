@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/React-MovieService-CloneCoding/static/js/main.c105dcac.chunk.js",
+    "main.js.map": "/React-MovieService-CloneCoding/static/js/main.c105dcac.chunk.js.map",
+    "runtime-main.js": "/React-MovieService-CloneCoding/static/js/runtime-main.001fcace.js",
+    "runtime-main.js.map": "/React-MovieService-CloneCoding/static/js/runtime-main.001fcace.js.map",
+    "static/js/2.eb856257.chunk.js": "/React-MovieService-CloneCoding/static/js/2.eb856257.chunk.js",
+    "static/js/2.eb856257.chunk.js.map": "/React-MovieService-CloneCoding/static/js/2.eb856257.chunk.js.map",
+    "index.html": "/React-MovieService-CloneCoding/index.html",
+    "static/js/2.eb856257.chunk.js.LICENSE.txt": "/React-MovieService-CloneCoding/static/js/2.eb856257.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.001fcace.js",
+    "static/js/2.eb856257.chunk.js",
+    "static/js/main.c105dcac.chunk.js"
+  ]
+}
